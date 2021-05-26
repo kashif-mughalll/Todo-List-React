@@ -10,7 +10,7 @@ var Form = (props) => {
             <input ref={ref1} className="input-bar" type="text" placeholder = "Enter here ..."
                 onChange = { (e)=> setText(e.target.value) }
             ></input>
-            <button className="btn-style-1"
+            <button className="btn-style-2"
                 onClick = {
                     ()=>{
                         ref1.current.value = '';
