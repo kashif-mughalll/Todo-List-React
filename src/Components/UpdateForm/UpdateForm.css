@@ -1,0 +1,8 @@
+.update-form{
+    height: 60px;
+    width: 600px;
+    background-color: #ddd;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
